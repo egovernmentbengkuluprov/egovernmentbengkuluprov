@@ -12,7 +12,7 @@ Our goal is to create a seamless and efficient digital government experience for
 
 We work with a wide variety of technologies to ensure our projects are scalable, secure, and efficient:
 
-- **Backend**: Node.js, Express.js, Python, Java
+- **Backend**: Laravel, Node.js, Express.js, Python, Java
 - **Frontend**: React, Vue.js, Angular
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **Cloud**: AWS
